@@ -1,0 +1,72 @@
+
+
+body{
+    background-image:url("climatechange.jpeg");
+    color:navy;
+}
+
+
+
+.test_images_and_result{
+   box-shadow: 5px 5px 18px;
+   border-radius: 10px; 
+   width: 400px;
+   padding-bottom:20px;
+   margin-top: 20px;
+   background-color: cornsilk;
+
+   
+}
+
+.test_images_and_result hr{
+color:peru;
+}
+#fossil{
+    border-radius:10px;
+}
+
+#header{
+    font-size: 30px;
+}
+
+#video{
+    width: 70%;
+    border-radius: 10px;
+    margin-left: 30px;
+    border-color: orangered;
+    margin-top: 20px;
+}
+
+.white{
+    color:red;
+}
+
+.effects{
+    font-size: 20;
+    margin-left: 40px; ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: coral;
+    border-radius: 10px;
+}
+
+.Illustrations{
+color:navajowhite;
+}
+
+.back{
+    font-size: 25px;
+    background-color: coral;
+}
+
+.red{
+    color:red;
+}
+
+
+
+
+
+
+
+
